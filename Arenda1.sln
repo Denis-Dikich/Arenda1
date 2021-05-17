@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arenda1", "Arenda1.csproj", "{BBB91862-64A7-4720-B29B-A0BABC167BD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB91862-64A7-4720-B29B-A0BABC167BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB91862-64A7-4720-B29B-A0BABC167BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB91862-64A7-4720-B29B-A0BABC167BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB91862-64A7-4720-B29B-A0BABC167BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48C83D91-6EA4-4B4C-9587-AF8BAEDA83CB}
+	EndGlobalSection
+EndGlobal
